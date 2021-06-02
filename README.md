@@ -12,7 +12,7 @@ This repository contains some data analysis projects including their datasatet.
   - [Netflix Data Analyzing](https://github.com/fitranpramakrisna/data-analysis-projects/tree/main/Netflix%20Data%20Analysis) : Analyzing facts from Movies and TV Shows in the Netflix dataset.
   - [Online Retail Sales](https://github.com/fitranpramakrisna/Data-Science-Portofolio/blob/main/Data%20Analysis%20and%20Visualization%20Projects/Online%20Retail%20Sales%20Data%20Analysis.ipynb): Analyzing GMV of an online retail store which sells their products to some countries in one-year period.
   - [Student Peformance in Exam](https://github.com/fitranpramakrisna/Data-Science-Portofolio/blob/main/Data%20Analysis%20and%20Visualization%20Projects/Student%20Performance%20in%20Exam%20Data%20Analysis%20.ipynb): Analyzing some factors that affect students' exam score.
-- ### Tableau Project]
+- ### Tableau Project
   - Tableau is interactive data visualization software.Tableau products query relational databases, online analytical processing cubes, cloud databases, and spreadsheets to generate graph-type data visualizations. 
   - The dataset that is used is the Covid 19 dataset in Indonesia. The dataset was taken from Kaggle (https://www.kaggle.com/hendratno/covid19-indonesia).
   - ##### Contents on the dashboard
