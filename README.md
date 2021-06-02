@@ -1,4 +1,4 @@
-# Data Analytics
+# Data Analysis
 
 This repository contains some data analysis projects including their datasatet.
 
