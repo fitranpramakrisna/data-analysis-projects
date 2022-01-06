@@ -23,6 +23,18 @@ This repository contains some data analysis projects including their datasatet.
       * Confirmed Cases
       * Death Cases
    - [Link](https://prod-apsoutheast-a.online.tableau.com/#/site/mydashboardonline/views/Covid19inIndonesia/Dashboard1?:origin=card_share_link&:embed=n) to go to the dashboard on Tableau
+
+- ### Google Data Studio Project
+  - Google Data Studio is  an online tool for converting data into customizable informative reports and dashboards introduced by Google. 
+  - The dataset that is used is the Covid 19 dataset in Indonesia. The dataset was taken from Kaggle (https://www.kaggle.com/hendratno/covid19-indonesia).
+  - ##### Contents on the dashboard
+    What will contain in the project :
+      * COVID-19 Spread Cases based on map
+      * Daily Cases
+      * Breakdown cases per Province
+      * Confirmed Cases
+      * Death Cases
+   - [Link](https://datastudio.google.com/reporting/af5b973a-484e-4e5f-919d-4375c6b54e0e) to go to the dashboard on Google Data Studio
 - ### Certificates
     Certificates which I achieved from Data Science Online Course. The certificate folder consists of Data Visualization, SQL, Pandas, Python for Data, and Python Statistics certificates.
 
