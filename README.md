@@ -1,6 +1,6 @@
 # Data Analysis
 
-This repository contains some data analysis projects including their datasatet.
+This repository contains some data analysis projects including their datasatet. The projects run in Jupyter Notebook
 
 
 
